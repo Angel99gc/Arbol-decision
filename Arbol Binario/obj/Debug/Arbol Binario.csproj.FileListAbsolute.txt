@@ -1,0 +1,6 @@
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\ADMIN\Dropbox\Proyecto Analisis\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
